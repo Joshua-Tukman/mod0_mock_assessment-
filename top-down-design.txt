@@ -56,4 +56,4 @@ Doing Laundry
   3.3.1 Fold shirts
   3.3.2 Fold pants
   3.3.3 Fold socks and underwear
-3.4 Put clothes in appropriate drawer 
+ 3.4 Put clothes in appropriate drawer 
