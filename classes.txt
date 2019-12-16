@@ -1,0 +1,17 @@
+Class: Child
+
+Attributes:
+age (integer)
+name (string)
+parents (array)
+height (integer)
+weight (integer)
+boy (boolean)
+girl (boolean)
+
+
+Methods:
+list_parents []
+show_years_until_adult (subtracts age from 18)
+print_name
+check_height_to_ride (subtracts height from 48. If # < 0 true. Else false)
